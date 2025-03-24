@@ -23,11 +23,11 @@ venture-ecosystem/
 # **Venture Ecosystem – Developer Repository**  
 🚀 **Welcome to the Venture Ecosystem repository!**  
 
-Venture is a decentralized financial ecosystem built on **Ethereum**, designed to provide powerful trading, earning, and borrowing tools for crypto users. This repository contains the core components, APIs, and smart contracts powering the Venture platform.  
+Venture is a decentralized financial ecosystem built on **Binance**, designed to provide powerful trading, earning, and borrowing tools for crypto users. This repository contains the core components, APIs, and smart contracts powering the Venture platform.  
 
 ## 🏗 **Development Model**  
 Venture is designed using a **modular architecture** to ensure flexibility and scalability. The core components include:  
-- **Smart Contracts:** Deployed on Ethereum for security and transparency.  
+- **Smart Contracts:** Deployed on Binance for security and transparency.  
 - **Backend Services:** Handling API requests, user authentication, and trading logic.  
 - **Frontend Interface:** Web-based dashboard and mobile app for user interaction.  
 - **Automated Trading:** Real-time arbitrage execution across multiple exchanges.  
@@ -38,23 +38,23 @@ Venture is designed using a **modular architecture** to ensure flexibility and s
 
 | API / Service             | Purpose |  
 |--------------------------|-----------------|  
-| **Ethereum (EVM)**       | Smart contract execution (Solidity) |  
+| **Binance (EVM)**       | Smart contract execution (Solidity) |  
 | **Chainlink Oracles**    | Real-time price feeds & data verification |  
 | **Moralis API**          | Wallet tracking, on-chain analytics |  
 | **CoinGecko API**        | Market price tracking & historical data |  
 | **CoinMarketCap API**    | Crypto ranking & trend data |  
 | **0x Protocol API**      | Decentralized trading & liquidity aggregation |  
 | **Aave API**             | DeFi borrowing & lending integration |  
-| **Uniswap SDK**          | DEX trading & liquidity pools |  
+| **Pancake SDK**          | DEX trading & liquidity pools |  
 | **The Graph Protocol**   | Indexing blockchain data |  
-| **Alchemy/Infura**       | Ethereum node provider |  
-| **Web3.js / Ethers.js**  | Blockchain interaction & wallet connectivity |  
+| **Alchemy/Infura**       | Binance node provider |  
+| **Web3.js / Bsc.js**  | Blockchain interaction & wallet connectivity |  
 
 ---
 
 ## 🛠 **Smart Contract Development**  
-Venture smart contracts are built with **Solidity** and deployed on the **Ethereum network**. Key contracts include:  
-- **$VNT Token Contract:** ERC-20 standard token implementation.  
+Venture smart contracts are built with **Solidity** and deployed on the **Binance network**. Key contracts include:  
+- **$VNT Token Contract:** BEP-20 standard token implementation.  
 - **Staking & Reward Contracts:** Incentives for $VNT holders.  
 - **Arbitrage Execution Contracts:** Automated cross-exchange trading.  
 - **DeFi Borrowing Contracts:** Smart lending & borrowing mechanism.  
