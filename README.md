@@ -66,6 +66,7 @@ Venture smart contracts are built with **Solidity** and deployed on the **Binanc
 | Product                   | Status       | Expected Release |  
 |--------------------------|-------------|----------------|  
 | **Venture Arbitrage Bot** | ✅ Live at Launch | **Q2 2025** |  
+| **Venture Staking** | 🚧 In Development | **Q2 2025** |
 | **Venture Trading Terminal** | 🚧 In Development | **Q3 2025** |  
 | **Venture Yield Vault** | 🚧 In Development | **Q4 2025** |  
 | **Venture Marketplace** | 🚧 In Development | **Q4 2025** |  
